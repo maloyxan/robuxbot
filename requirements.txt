@@ -1,1 +1,3 @@
-aiosqlite pyrogram
+aiosqlite
+pyrogram
+tgcrypto
